@@ -12,6 +12,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 MicroSoft Word document
 
-Given the provided data, what are three conclusions we can draw about Kickstarter campaigns? See Word document Excel_ChallengeHW
-What are some limitations of this dataset? See Word document Excel_ChallengeHW
-What are some other possible tables and/or graphs that we could create? See Word document Excel_ChallengeHW
+Given the provided data, what are three conclusions we can draw about Kickstarter campaigns? See Excel-ChallengeHW_DataScience.docx
+What are some limitations of this dataset? See Excel-ChallengeHW_DataScience.docx
+What are some other possible tables and/or graphs that we could create? See Excel-ChallengeHW_DataScience.docx
